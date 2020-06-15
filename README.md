@@ -1,4 +1,3 @@
-# github-explorer
 ![Github Explorer Logo](./src/assets/logo.svg) <br />
 Aplicação desenvolvida em _ReactJS_ para explorar repositórios do Github.
 
